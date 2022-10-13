@@ -1,3 +1,4 @@
-print("hello")
-print("helloworldddddddddddddddddddd")
-sdsdsd
+n = input("숫자입력:")
+for i in range(int(n)):
+    print(i)
+
